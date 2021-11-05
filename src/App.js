@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import PivotTableUI from 'react-pivottable-ardi/PivotTableUI';
 import 'react-pivottable-ardi/pivottable.css';
-import {findByDisplayValue} from "@testing-library/react";
 
 
 function App() {
